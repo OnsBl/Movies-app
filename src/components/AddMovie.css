@@ -1,0 +1,30 @@
+.add-movie-container {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .add-movie-title {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .form-label {
+    color: #555;
+  }
+  
+  .add-movie-button {
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-movie-button:hover {
+    background-color: #0056b3;
+  }
+  
